@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Markus Wieland</h1>
 <h3 align="center">A passionate Android App and Web developer from Germany</h3>
 
-- 🔭 I’m currently working on my **Python Course**
+👨‍🎓 Technische Universität Dresden - Diplom Computer Science
+📍 Dresden, Germany
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
-
-- 📫 How to reach me: **brantlauro@gmail.com**
-
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">

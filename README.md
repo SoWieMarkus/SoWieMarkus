@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Markus Wieland</h1>
-<h3 align="center">A passionate Android App and Web developer from Germany</h3>
+<h3 align="center">Android App and Web developer from Germany</h3>
 
 <div align="center">
 👨‍🎓 Technische Universität Dresden - Diplom Computer Science<br>
